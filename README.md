@@ -1,5 +1,6 @@
 # Traffic-Simulator
-A desktop application for road traffic simulation mainly based on two concepts : multithreading and OOP.Focusing in two types of roads it enables to:
+A desktop application for road traffic simulation mainly based on two concepts : multithreading and OOP.
+Focusing on two types of roads it enables to:
 - Define a duration of a simulation and start it
 - Pause the simulation 
 - Stop the simulation 
